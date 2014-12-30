@@ -1,0 +1,5 @@
+\\psf\Home\Desktop\ComputerVisionLibrary\ComputerVisionLibrary\bin\Debug\ComputerVisionLibrary.dll
+\\psf\Home\Desktop\ComputerVisionLibrary\ComputerVisionLibrary\bin\Debug\ComputerVisionLibrary.pdb
+\\psf\Home\Desktop\ComputerVisionLibrary\ComputerVisionLibrary\obj\Debug\ComputerVisionLibrary.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\ComputerVisionLibrary\ComputerVisionLibrary\obj\Debug\ComputerVisionLibrary.dll
+\\psf\Home\Desktop\ComputerVisionLibrary\ComputerVisionLibrary\obj\Debug\ComputerVisionLibrary.pdb
