@@ -1,0 +1,15 @@
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\bin\Debug\JacondiseMe.exe.config
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\bin\Debug\JacondiseMe.exe
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\bin\Debug\JacondiseMe.pdb
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\JacondiseMe.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\MainWindow.baml
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\MainWindow.g.cs
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\App.g.cs
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\JacondiseMe_MarkupCompile.cache
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\JacondiseMe.g.resources
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\JacondiseMe.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\JacondiseMe.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\JacondiseMe.exe
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\obj\Debug\JacondiseMe.pdb
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\bin\Debug\ComputerVisionLibrary.dll
+\\psf\home\documents\visual studio 2013\Projects\JacondiseMe\JacondiseMe\bin\Debug\ComputerVisionLibrary.pdb
